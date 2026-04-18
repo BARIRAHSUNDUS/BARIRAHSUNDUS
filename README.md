@@ -1,26 +1,31 @@
-## Hey there! 
+## Hey there!
 
-I'm **Barirah**, a first-year Computer Science student trying to figure out how all this tech stuff actually works.
+I'm **Barirah**, a first-year Computer Science student with a passion for understanding how technology works by building real things.
 
-I like **building things**, breaking them, and then learning why they broke.  
-https://github.com/BARIRAHSUNDUS/ANONYMOUSMAZE664/blob/main/README.md
-If I get a new idea, chances are I’ll try it — whether it’s **a small web app, a robot, or some weird experiment**.
+I enjoy experimenting, solving problems, and turning ideas into projects. This could be a small application, a robotics prototype, or something completely new.
 
-Right now, my main tech stack is **C, Java**, but I’m dabbling in **Arduino, React, and basic robotics**. My favorite tools are **VS Code, Arduino IDE, and Google (it’s basically my IDE)**.  
+### Currently Working With
 
-Some ongoing projects:  
-- **Floui** — a companion robot I’m building while learning robotics and embedded systems  
-- Various mini experiments — mostly messy, sometimes working  
+* **Languages:** C, Java, Python (Learning)
+* **Tools:** VS Code, Git, Arduino IDE
+* **Interests:** Robotics, Web Development, AI/ML, Embedded Systems
 
-I’ve got a bunch of small repos, but my “serious learning” is mostly private for now.  
+### Ongoing Projects
 
-**Fun Facts:**  
-* I’m exploring everything from software to hardware  
-* My GitHub contribution graph looks like my mood swings  
-* Coffee is optional, curiosity is mandatory  
-* **Hobbies:** coding, tinkering with electronics, thinking up weird project ideas, and **playing Valorant**  
+* **Floui** - a companion robot project focused on user interaction and sensor-based movement
+* **To-Do List Application (C)** - console-based project using structures, pointers, and file handling
+* Mini experiments and learning projects
+
+### A Little About Me
+
+* Exploring both software and hardware
+* I strongly believe in learning by doing
+* I am curious, consistent, and always building
+
+### Outside Tech
+
+I enjoy exploring new ideas , creative problem-solving, and gaming .
 
 ---
 
-*Currently learning by doing. One project at a time.*
-
+*Currently learning one project at a time.*

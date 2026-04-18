@@ -1,9 +1,9 @@
-## Hey there! 👋
+## Hey there! 
 
 I'm **Barirah**, a first-year Computer Science student trying to figure out how all this tech stuff actually works.
 
 I like **building things**, breaking them, and then learning why they broke.  
-
+https://github.com/BARIRAHSUNDUS/ANONYMOUSMAZE664/blob/main/README.md
 If I get a new idea, chances are I’ll try it — whether it’s **a small web app, a robot, or some weird experiment**.
 
 Right now, my main tech stack is **C, Java**, but I’m dabbling in **Arduino, React, and basic robotics**. My favorite tools are **VS Code, Arduino IDE, and Google (it’s basically my IDE)**.  

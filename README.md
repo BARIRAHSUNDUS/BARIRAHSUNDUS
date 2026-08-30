@@ -1,6 +1,6 @@
 ## Hey there!
 
-I'm **Barirah**, a first-year Computer Science student with a passion for understanding how technology works by building real things.
+I'm **Barirah**, a  Computer Science student with a passion for understanding how technology works by building real things.
 
 I enjoy experimenting, solving problems, and turning ideas into projects. This could be a small application, a robotics prototype, or something completely new.
 

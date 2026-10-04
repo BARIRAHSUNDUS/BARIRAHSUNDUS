@@ -1,4 +1,4 @@
-# Hi, I'm Barirah 👋
+# Hi, I'm Barirah 
 
 I'm a Computer Science student passionate about understanding how technology works and building a strong foundation in software development.
 
@@ -6,12 +6,11 @@ Currently, I'm focused on **Data Structures & Algorithms** and **AI Engineering*
 
 ---
 
-## 🧠 Currently Learning
+## Currently Learning
 
-- 🤖 **AI Engineering**
-- 🧩 **Data Structures & Algorithms**
-- 🐍 **Python**
-- 💻 Problem Solving & Programming Fundamentals
+- **AI Engineering**
+- **Data Structures & Algorithms**
+- **Python**
 
 ---
 

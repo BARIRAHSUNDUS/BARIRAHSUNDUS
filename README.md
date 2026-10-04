@@ -14,7 +14,7 @@ Currently, I'm focused on **Data Structures & Algorithms** and **AI Engineering*
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -28,7 +28,7 @@ Currently, I'm focused on **Data Structures & Algorithms** and **AI Engineering*
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 **DSA** → Strengthening problem-solving and algorithmic thinking
 
@@ -45,10 +45,10 @@ Currently, I'm focused on **Data Structures & Algorithms** and **AI Engineering*
 
 ---
 
-## 🎮 Outside Tech
+## Outside Tech
 
 When I'm not coding, you'll probably find me gaming, exploring new ideas, or doing something creative.
 
 ---
 
-> *Learning. Building. Improving. One step at a time.* 🚀
+> *Learning. Building. Improving. One step at a time.* 
